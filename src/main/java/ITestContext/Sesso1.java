@@ -30,6 +30,7 @@ public class Sesso1 {
 	String OperatingSystem = (String)context.getAttribute("Windows10");
 
 	System.out.println("The setUp for the operating system for asus laptop is: "+OperatingSystem);
+	System.out.println("The setUp for the operating system for asus laptop is: "+OperatingSystem);
 
 	}
 }
